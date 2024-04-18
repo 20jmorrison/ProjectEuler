@@ -1,0 +1,3 @@
+/Users/jaredmorrison/Desktop/PrimeSieve/cmake-build-debug/CMakeFiles/PrimeSieve.dir
+/Users/jaredmorrison/Desktop/PrimeSieve/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jaredmorrison/Desktop/PrimeSieve/cmake-build-debug/CMakeFiles/rebuild_cache.dir
